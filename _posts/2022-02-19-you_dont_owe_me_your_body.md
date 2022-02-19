@@ -38,7 +38,7 @@ If you choose option **2** and you also support the current COVID-19 vaccine man
 
 If you choose option **1** and you also support the current COVID-19 vaccine mandates then I believe your position is untenable. 
 
-But you may have a more detailed answer, as many do – *”It’s not that simple, Rhys!”*** Your answer might go something like this – *“Well it depends on what the situation is, and it depends on what the medicine is”.*
+But you may have a more detailed answer, as many do – *”It’s not that simple, Rhys!”* Your answer might go something like this – *“Well it depends on what the situation is, and it depends on what the medicine is”.*
 
 I’ll take the liberty to rephrase your answer – *“If I **do** want the medicine then I think the state should be able to force everyone to take it, and informed consent should be kicked to the kerb. However, if I **do not** want the medicine then I want the right to decide for myself. See, it depends!”.*
 
