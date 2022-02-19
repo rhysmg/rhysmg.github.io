@@ -3,6 +3,7 @@ layout: post
 title: You don't owe me your body
 subtitle: Informed consent – hard won, now lost?
 tags: [covid]
+share-img: /assets/img/consent.png
 comments: true
 ---
 Kia Ora whānau Aotearoa. After countless sleepless nights and the shedding of tears as I’ve seen my country, my beautiful Aotearoa New Zeeland torn and hurting, I feel compelled once again by my convictions to write to you in aroha and fervour. I want to address the question at the heart of vaccine mandates. Partly because I haven’t yet seen it properly distilled, certainly not in coherent public debate, certainly not by the media, and certainly not by the Government.  That might seem surprising because it’s very much in our face. Discussed about everywhere but typically in clunky half-formed and poor arguments. I have often found us talking at cross purposes – providing the answer to one question as if it were another. Like answering the question *“should we mandate vaccines”* with *“vaccines save lives”*.  I’ve witnessed us shouting at each other. I’ve seen us attempting to silence each other when we even explore anything that diverges from the “official narrative”. I have my own apologies to make in this respect. But never do we seem to truly distil the question, which is what I will attempt to do in this post. 
