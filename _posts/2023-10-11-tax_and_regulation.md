@@ -3,7 +3,7 @@ layout: post
 title: Tax and Inequality
 subtitle: Why I'm voting for The Opportunities Party in 2023
 tags: [tax, TOP,The Opportunities Party, inequality]
-share-img: /assets/img/consent.png
+share-img: /assets/img/toptax.jpg
 comments: true
 ---
 Kia ora folks, 
