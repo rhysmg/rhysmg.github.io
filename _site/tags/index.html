@@ -13,7 +13,7 @@
 
   
 
-  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
 
@@ -84,7 +84,7 @@
   
   <meta property="og:site_name" content="rhysmg">
   <meta property="og:title" content="Tag Index">
-  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
   <meta property="og:image" content="http://mgmt:4000/assets/img/avatar-icon.jpg">
@@ -103,7 +103,7 @@
   <meta name="twitter:creator" content="@">
 
   <meta property="twitter:title" content="Tag Index">
-  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
   
   <meta name="twitter:image" content="http://mgmt:4000/assets/img/avatar-icon.jpg">
@@ -171,6 +171,13 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "Tax and Inequality", \
+          "category" : "taxTOPThe Opportunities Partyinequality", \
+          "url"      : "/2023-10-11-tax-and-regulation/", \
+          "date"     : "October 11, 2023" \
+        }, \
+       \
+        { \
           "title"    : "Trust me", \
           "category" : "covid", \
           "url"      : "/2022-02-23-trust_me/", \
@@ -182,20 +189,6 @@
           "category" : "covid", \
           "url"      : "/2022-02-19-you_dont_owe_me_your_body/", \
           "date"     : "February 19, 2022" \
-        }, \
-       \
-        { \
-          "title"    : "Sample blog post", \
-          "category" : "test", \
-          "url"      : "/2020-02-28-test-markdown-copy/", \
-          "date"     : "February 28, 2020" \
-        }, \
-       \
-        { \
-          "title"    : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020-02-26-flake-it-till-you-make-it/", \
-          "date"     : "February 26, 2020" \
         }, \
        \
        \
@@ -270,14 +263,23 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <a href="#books" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;books&nbsp;(1)</a><a href="#covid" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;covid&nbsp;(2)</a><a href="#test" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;test&nbsp;(2)</a><div id="full-tags-list"><h2 id="books" class="linked-section">
+      <a href="#TOP" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;TOP&nbsp;(1)</a><a href="#The Opportunities Party" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;The Opportunities Party&nbsp;(1)</a><a href="#covid" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;covid&nbsp;(2)</a><a href="#inequality" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;inequality&nbsp;(1)</a><a href="#tax" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;tax&nbsp;(1)</a><div id="full-tags-list"><h2 id="TOP" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;books&nbsp;(1)
+        &nbsp;TOP&nbsp;(1)
     </h2>
     <div class="post-list"><div class="tag-entry">
-                <a href="/2020-02-26-flake-it-till-you-make-it/">Flake it till you make it</a>
+                <a href="/2023-10-11-tax-and-regulation/">Tax and Inequality</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-26T00:00:00+13:00">February 26, 2020</time>
+                    <time datetime="2023-10-11T00:00:00+13:00">October 11, 2023</time>
+                </div>
+            </div></div><h2 id="The Opportunities Party" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;The Opportunities Party&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2023-10-11-tax-and-regulation/">Tax and Inequality</a>
+                <div class="entry-date">
+                    <time datetime="2023-10-11T00:00:00+13:00">October 11, 2023</time>
                 </div>
             </div></div><h2 id="covid" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
@@ -293,19 +295,23 @@
                 <div class="entry-date">
                     <time datetime="2022-02-19T00:00:00+13:00">February 19, 2022</time>
                 </div>
-            </div></div><h2 id="test" class="linked-section">
+            </div></div><h2 id="inequality" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;test&nbsp;(2)
+        &nbsp;inequality&nbsp;(1)
     </h2>
     <div class="post-list"><div class="tag-entry">
-                <a href="/2020-02-28-test-markdown-copy/">Sample blog post</a>
+                <a href="/2023-10-11-tax-and-regulation/">Tax and Inequality</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-28T00:00:00+13:00">February 28, 2020</time>
+                    <time datetime="2023-10-11T00:00:00+13:00">October 11, 2023</time>
                 </div>
-            </div><div class="tag-entry">
-                <a href="/2020-02-26-flake-it-till-you-make-it/">Flake it till you make it</a>
+            </div></div><h2 id="tax" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;tax&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2023-10-11-tax-and-regulation/">Tax and Inequality</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-26T00:00:00+13:00">February 26, 2020</time>
+                    <time datetime="2023-10-11T00:00:00+13:00">October 11, 2023</time>
                 </div>
             </div></div></div>
 
@@ -328,7 +334,7 @@
       
       <p class="copyright text-muted">
       
-      2022
+      2023
 
       
         &nbsp;&bull;&nbsp;

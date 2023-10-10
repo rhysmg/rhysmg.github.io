@@ -5,11 +5,22 @@
     <title>rhysmg</title>
     
     
-    <description>rhysmg - I'm not sure this makes sense...</description>
+    <description>rhysmg - I&apos;m not sure this makes sense...</description>
     
     <link>http://mgmt:4000/</link>
     <atom:link href="http://mgmt:4000/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Tax and Inequality</title>
+        <description>
+          Why I&apos;m voting for The Opportunities Party in 2023 - 
+          Kia ora folks, I’m voting for TOP – The Opportunities Party in the 2023 General Election. Mainly for their Land Value Tax policy. We’re forever ringing our hands about inequality but then we also seem to get all up and arms about wealth taxes. Like there is something sacred about...
+        </description>
+        <pubDate>Wed, 11 Oct 2023 00:00:00 +1300</pubDate>
+        <link>http://mgmt:4000/2023-10-11-tax-and-regulation/</link>
+        <guid isPermaLink="true">http://mgmt:4000/2023-10-11-tax-and-regulation/</guid>
+      </item>
     
       <item>
         <title>Trust me</title>
@@ -23,36 +34,14 @@
       </item>
     
       <item>
-        <title>You don't owe me your body</title>
+        <title>You don&apos;t owe me your body</title>
         <description>
           Informed consent – hard won, now lost? - 
-          Kia Ora whānau Aotearoa. After countless sleepless nights and the shedding of tears as I’ve seen my country, my beautiful Aotearoa New Zeeland torn and hurting, I feel compelled once again by my convictions to write to you in aroha and fervour. I want to address the question at the...
+          Kia Ora whānau Aotearoa. After countless sleepless nights and the shedding of tears as I’ve seen my country, my beautiful Aotearoa New Zealand torn and hurting, I feel compelled once again by my convictions to write to you in aroha and fervour. I want to address the question at the...
         </description>
         <pubDate>Sat, 19 Feb 2022 00:00:00 +1300</pubDate>
         <link>http://mgmt:4000/2022-02-19-you_dont_owe_me_your_body/</link>
         <guid isPermaLink="true">http://mgmt:4000/2022-02-19-you_dont_owe_me_your_body/</guid>
-      </item>
-    
-      <item>
-        <title>Sample blog post</title>
-        <description>
-          Each post also has a subtitle - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
-        </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +1300</pubDate>
-        <link>http://mgmt:4000/2020-02-28-test-markdown-copy/</link>
-        <guid isPermaLink="true">http://mgmt:4000/2020-02-28-test-markdown-copy/</guid>
-      </item>
-    
-      <item>
-        <title>Flake it till you make it</title>
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
-        </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +1300</pubDate>
-        <link>http://mgmt:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://mgmt:4000/2020-02-26-flake-it-till-you-make-it/</guid>
       </item>
     
   </channel>
